@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="https://ddorfma2-sys.github.io/CSE445">
 
   <xsd:element name="NationalParks" type="NationalParksType"/>
 
