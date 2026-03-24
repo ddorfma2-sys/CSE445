@@ -32,6 +32,7 @@
   <NationalPark Rating="4.7">
     <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Fresno">
       <Number>9035</Number>
       <Street>Village Drive</Street>
@@ -44,6 +45,7 @@
   <NationalPark>
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="St. George">
       <Number>1</Number>
       <Street>Zion Park Blvd</Street>
@@ -69,6 +71,7 @@
   <NationalPark>
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Seattle-Tacoma">
       <Number>3002</Number>
       <Street>Mount Angeles Road</Street>
@@ -81,6 +84,7 @@
   <NationalPark Rating="4.5">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Glacier Park">
       <Number>64</Number>
       <Street>Grinnell Drive</Street>
@@ -93,6 +97,7 @@
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Bangor">
       <Number>25</Number>
       <Street>Visitor Center Road</Street>
@@ -118,6 +123,7 @@
   <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Palm Springs">
       <Number>74485</Number>
       <Street>National Park Drive</Street>
@@ -130,6 +136,7 @@
   <NationalPark Rating="4.8">
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Cedar City">
       <Number>1</Number>
       <Street>Bryce Canyon National Park</Street>
