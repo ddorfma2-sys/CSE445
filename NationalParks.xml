@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xsi:schemaLocation="https://ddorfma2-sys.github.io/CSE445/NationalParks.xsd"
-               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<NationalParks xmlns="https://ddorfma2-sys.github.io/CSE445"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:schemaLocation="https://ddorfma2-sys.github.io/CSE445 https://ddorfma2-sys.github.io/CSE445/NationalParks.xsd">
 
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
