@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<NationalParks xsi:schemaLocation="https://ddorfma2-sys.github.io/CSE445 https://ddorfma2-sys.github.io/CSE445/NationalParks.xsd">
-  
+<NationalPark xsi:schemaLocation="https://ddorfma2-sys.github.io/CSE445 https://ddorfma2-sys.github.io/CSE445/NationalParks.xsd">
+
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Name>Grand Canyon National Park</Name>
@@ -66,6 +66,7 @@
   <NationalPark>
     <Name>Olympic</Name>
     <Phone>360-565-3130</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Seattle-Tacoma">
       <Number>3002</Number>
       <Street>Mount Angeles Road</Street>
@@ -78,6 +79,7 @@
   <NationalPark Rating="4.5">
     <Name>Glacier</Name>
     <Phone>406-888-7800</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Glacier Park">
       <Number>64</Number>
       <Street>Grinnell Drive</Street>
@@ -90,6 +92,7 @@
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Bangor">
       <Number>25</Number>
       <Street>Visitor Center Road</Street>
@@ -115,6 +118,7 @@
   <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Palm Springs">
       <Number>74485</Number>
       <Street>National Park Drive</Street>
@@ -127,6 +131,7 @@
   <NationalPark Rating="4.8">
     <Name>Bryce Canyon</Name>
     <Phone>435-834-5322</Phone>
+    <Phone>202-208-6843</Phone>
     <Address NearestAirport="Cedar City">
       <Number>1</Number>
       <Street>Bryce Canyon National Park</Street>
