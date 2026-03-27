@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
     targetNamespace="https://ddorfma2-sys.github.io/CSE445"
     xmlns="https://ddorfma2-sys.github.io/CSE445"
     elementFormDefault="qualified">
