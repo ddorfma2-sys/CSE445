@@ -1,6 +1,5 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-            elementFormDefault="qualified"
-            attributeFormDefault="unqualified">
+<xsd:schema targetNamespace="https://ddorfma2-sys.github.io/CSE445" elementFormDefault="qualified" attributeFormDefault="unqualified">
+
 <xsd:annotation>
     <xsd:documentation xml:lang="en">
       National Parks Directory
